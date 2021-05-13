@@ -1,0 +1,14 @@
+.modal-card {
+  width: 20rem;
+  margin: 50px auto;
+  height: 300px;
+}
+.drag-container {
+  width: 100%;
+  border: 1px dotted black;
+}
+
+.selected-container {
+  height: 8rem;
+  width: 100%;
+}

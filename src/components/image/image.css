@@ -1,0 +1,10 @@
+.img {
+  height: 200px;
+  width: 400px;
+  overflow: hidden;
+}
+
+.img img {
+  object-fit: contain !important;
+  object-position: center;
+}
